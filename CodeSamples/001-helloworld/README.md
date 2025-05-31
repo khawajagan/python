@@ -1,9 +1,15 @@
 This is a Sample Hello World
 Create a new folder in your working directory with
-''' mkdir helloworld'''
+'''
+mkdir helloworld
+'''
 
 Initialize with UV
-''' uv init .'''
+''' 
+uv init .
+'''
 
 Run the main.py
-'''python main.py'''
+'''
+python main.py
+'''
